@@ -52,7 +52,7 @@ ul{
     color: white;
 }
 .free a{
-    padding: 0.4rem 1rem;
+    padding: 0.2rem 3rem !important;
     color: white;
     background-color: #007589;
     text-align: center;
@@ -305,15 +305,16 @@ svg {
 .ef{
     text-align: center;
     font-size: 1.2rem;
-    padding: 15px 33px;
+    padding: 0.6rem 1.5rem;
     border-radius: 3px;
+    width: 13%;
     background-color: #007589;
     color: white;
     text-decoration: none;
     float: right;
-    margin-right: 610px;
     position: relative;
     top: -230px;
+    left: -610px;
 }
 .ef:hover{
     background-color: #015a69;
@@ -755,7 +756,7 @@ color: #576366;
 }
 .z1{
     background-color: #edeff0;
-    height: 700px;
+    height: 800px;
 }
 .z2{
     text-decoration: none;
@@ -774,7 +775,7 @@ color: #576366;
 }
 i{
     float: right;
-    padding: 14px;
+    padding: 18px;
     border-radius: 50%;
     background-color: #007589 !important;
     color: white;
