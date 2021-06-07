@@ -700,7 +700,6 @@ top: 30px;
 .z0{
     margin-top: 40px;
     margin-left: 45px;
-    padding-top: 60px;
 }
 
 .slide{
@@ -756,7 +755,8 @@ color: #576366;
 }
 .z1{
     background-color: #edeff0;
-    height: 800px;
+    height: auto;
+    margin-bottom: 100px;
 }
 .z2{
     text-decoration: none;
@@ -767,9 +767,10 @@ color: #576366;
     font-weight: 600;
     border-radius: 5px;
     position: relative;
-    top: 50px;
+    top: 60px;
     left: 535px;
-    margin-bottom: 40px;
+    height: auto;
+    margin-bottom: 5rem;
 }
 .z2:hover{
     background-color: #015a69 !important;
