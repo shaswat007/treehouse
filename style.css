@@ -6,6 +6,7 @@
 body, a,h1,p,ul,li,h2,h3,h4 {
     font-family: "Gotham Rounded A", "Gotham Rounded B", Helvetica, Arial, sans-serif;
     font-weight: 400;
+    width: 100%;
 }
 .top{
     display: flex;
