@@ -141,7 +141,7 @@ ul{
     font-weight: 700;
     font-size: 1.7rem;
     width: 100%;
-    margin: 0 auto 4.5rem auto;
+    margin: 0 auto 4rem auto;
     display: flex;
     position: relative;
     top: -220px;
@@ -154,7 +154,7 @@ ul{
     color: rgb(82, 79, 79);
     background-color: transparent;
     text-align: center;
-    padding: 3rem 5.5rem;
+    padding: 3rem 5rem;
     display: flex;
 }
 .third a:hover{
