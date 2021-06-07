@@ -878,6 +878,7 @@ li{
     position: fixed;
     bottom: 0;
     overflow: hidden;
+    z-index: 3;
 }
 .fo{
     font-size: 1.4rem;
